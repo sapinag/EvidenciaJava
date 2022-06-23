@@ -1,0 +1,5 @@
+com\eserna\evidencia\model\Bodymassindex.class
+com\eserna\evidencia\model\PersonImc.class
+com\eserna\evidencia\JAXRSConfiguration.class
+com\eserna\evidencia\model\UserImc.class
+com\eserna\evidencia\resources\JavaEE8Resource.class
